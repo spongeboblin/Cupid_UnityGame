@@ -1,0 +1,611 @@
+fileFormatVersion: 2
+guid: 89288698c86e7412a86ed26f01b091b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5323689132734611236
+    second: Man_up
+  - first:
+      213: 2249765782686518249
+    second: Women_fighting_1
+  - first:
+      213: 2541879116564576904
+    second: Man_down
+  - first:
+      213: 5745533656403912257
+    second: Woman_reconcile_1
+  - first:
+      213: -1866057171523724590
+    second: Couple2_Inlove
+  - first:
+      213: -3084445015708621103
+    second: Woman_flighting_2
+  - first:
+      213: 1543227281341262367
+    second: Woman_reconcile_2
+  - first:
+      213: 1620670848309351781
+    second: Woman_flighting_3
+  - first:
+      213: 7456219018005412507
+    second: Woman_reconcile_3
+  - first:
+      213: 7880256160878613860
+    second: Woman_flighting_4
+  - first:
+      213: 1285852285829211785
+    second: Woman_reconcile_4
+  - first:
+      213: -7878386091661708340
+    second: Woman_flighting_5
+  - first:
+      213: -2801223694594717100
+    second: Woman_reconcile_5
+  - first:
+      213: 5323689132734611236
+    second: Couple2_Man_Fighting_1
+  - first:
+      213: 2249765782686518249
+    second: Couple2_Woman_Fighting_1
+  - first:
+      213: 2541879116564576904
+    second: Couple2_Man_Reconcile_1
+  - first:
+      213: 5745533656403912257
+    second: Couple2_Woman_Reconcile_1
+  - first:
+      213: -1866057171523724590
+    second: Couple2_InLove
+  - first:
+      213: -3084445015708621103
+    second: Couple2_Woman_Fighting_2
+  - first:
+      213: 1543227281341262367
+    second: Couple2_Woman_Reconcile_2
+  - first:
+      213: 1620670848309351781
+    second: Couple2_Woman_fighting_7
+  - first:
+      213: 7456219018005412507
+    second: Couple2_Woman_Fighting_3
+  - first:
+      213: 7880256160878613860
+    second: Couple2_Woman_Reconcile_3
+  - first:
+      213: 1285852285829211785
+    second: Couple2_Woman_fighting_8
+  - first:
+      213: -7878386091661708340
+    second: Couple2_Woman_Fighting_4
+  - first:
+      213: -2801223694594717100
+    second: Couple2_Woman_Reconcile_4
+  - first:
+      213: 950696860540140548
+    second: Couple2_Woman_fighting_9
+  - first:
+      213: 1411644505582648114
+    second: Couple2_Woman_Fighting_5
+  - first:
+      213: -673707894027261675
+    second: Couple2_Woman_Reconcile_5
+  - first:
+      213: 8975266877608112111
+    second: Couple2_Woman_fighting_10
+  - first:
+      213: 5323689132734611236
+    second: Couple2_Man_1
+  - first:
+      213: 2249765782686518249
+    second: Couple2_Woman_fighting_1
+  - first:
+      213: 2541879116564576904
+    second: Couple2_Woman_fighting_6
+  - first:
+      213: 5745533656403912257
+    second: Couple2_Man_2
+  - first:
+      213: -1866057171523724590
+    second: Couple2_Woman_reconcile_1
+  - first:
+      213: -3084445015708621103
+    second: Couple2_InLove
+  - first:
+      213: 1543227281341262367
+    second: Couple2_Woman_fighting_2
+  - first:
+      213: 7456219018005412507
+    second: Couple2_Woman_reconcile_2
+  - first:
+      213: 7880256160878613860
+    second: Couple2_Woman_fighting_3
+  - first:
+      213: -7878386091661708340
+    second: Couple2_Woman_reconcile_3
+  - first:
+      213: -2801223694594717100
+    second: Couple2_Woman_fighting_4
+  - first:
+      213: 1411644505582648114
+    second: Couple2_Woman_reconcile_4
+  - first:
+      213: -673707894027261675
+    second: Couple2_Woman_fighting_5
+  - first:
+      213: -1380320738737707274
+    second: Couple2_Woman_reconcile_5
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 300
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Couple2_Man_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6301581b9a66794db668b277fca21f2
+      internalID: 5323689132734611236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37fa6efb0cd226b46998eb5fbbbce321
+      internalID: 2249765782686518249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_6
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1427e755593af6943a76241bfecb8421
+      internalID: 2541879116564576904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Man_2
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1adec55c80c9b740a68e89f17c96dee
+      internalID: 5745533656403912257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_reconcile_1
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b6dc49af64ff446a3bbb7e827bdbef
+      internalID: -1866057171523724590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_InLove
+      rect:
+        serializedVersion: 2
+        x: 2950
+        y: 3307.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd92d2c7fd14b2346a505204b8f043bd
+      internalID: -3084445015708621103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_2
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 2481.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef915648f432ed4c964c124839fbe16
+      internalID: 1543227281341262367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_7
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 2481.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5c3809927671748af1c23bcdb561bc
+      internalID: 1620670848309351781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_reconcile_2
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 2481.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a16f92efff8c84b959404d42536de3
+      internalID: 7456219018005412507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_3
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1655.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae3503369980c04899b2280ed90e7b1
+      internalID: 7880256160878613860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_8
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 1655.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21df8d51acbc3b543a4096d5ad8c823b
+      internalID: 1285852285829211785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_reconcile_3
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 1655.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afed816dcdf44a9459292805554e05d4
+      internalID: -7878386091661708340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_4
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 829.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71c6909e60c02b45934e2551769d1cf
+      internalID: -2801223694594717100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_9
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 829.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5337ce8ac1d002409b04f9ab89f98b4
+      internalID: 950696860540140548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_reconcile_4
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 829.2
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0088e7fdcaf9134fb89c091b400e615
+      internalID: 1411644505582648114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 3.2000122
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578c319f949bdb14591b277f1267ebd5
+      internalID: -673707894027261675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_fighting_10
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3.2000122
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1bdc52e37abdb40bd9c5c49edf0e78
+      internalID: 8975266877608112111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Couple2_Woman_reconcile_5
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3.2000122
+        width: 590.5
+        height: 826.8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587446fc08ec132479a12f05dcc01e0b
+      internalID: -1380320738737707274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b39b5c6172d8f4db39af1dac0a7ed78c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
